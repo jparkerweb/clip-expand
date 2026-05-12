@@ -1,7 +1,15 @@
 # ClipExpand
-A lightweight, clipboard-based text expansion tool for Linux systems. Designed with Remote Desktop sessions in mind, ClipExpand copies your text snippets to the clipboard for easy pasting, making it perfect for both local and remote workflows.
 
 <img src="https://github.com/jparkerweb/clip-expand/raw/main/.readme/clip-expand.jpg" alt="banner" height="250">
+
+A lightweight, clipboard-based text expansion tool for Linux systems. Designed with Remote Desktop sessions in mind, ClipExpand copies your text snippets to the clipboard for easy pasting, making it perfect for both local and remote workflows.
+
+### Maintained by
+<a href="https://www.equilllabs.com">
+  <img src="https://raw.githubusercontent.com/jparkerweb/eQuill-Labs/refs/heads/main/src/static/images/logo-text-outline.png" alt="eQuill Labs" height="40">
+</a>
+
+---
 
 ## Features
 
